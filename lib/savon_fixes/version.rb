@@ -1,0 +1,3 @@
+module SavonFixes
+  VERSION = '0.0.1'
+end
