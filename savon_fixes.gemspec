@@ -17,6 +17,18 @@ Gem::Specification.new do |s|
   s.platform      = Gem::Platform::RUBY
   s.require_paths = ['lib']
 
-  s.add_development_dependency 'rspec', '~> 3.0'
+  s.add_runtime_dependency 'savon', '2.12.0'
+
+  # from Savon
+  s.add_development_dependency "rack"
+  s.add_development_dependency "puma",  "~> 3.0"
+
+  s.add_development_dependency "rake",  "~> 10.1"
+  s.add_development_dependency "rspec", "~> 2.14"
+  s.add_development_dependency "mocha", "~> 0.14"
+  s.add_development_dependency "json",  "~> 1.7"
+
+  # from Savon fixes
+  # s.add_development_dependency 'rspec', '~> 3.0'
   s.add_development_dependency 'pry', '~> 0'
 end
