@@ -29,6 +29,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency "json",  "~> 1.7"
 
   # from Savon fixes
-  # s.add_development_dependency 'rspec', '~> 3.0'
   s.add_development_dependency 'pry', '~> 0'
 end
