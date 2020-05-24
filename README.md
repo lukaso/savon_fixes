@@ -25,3 +25,7 @@ Currently there is only one fix incorporated. There are many issues filed agains
 # Contributing
 
 Please create PR and follow the monkey patching approach already taken. Also please ensure there is a working test for your fix and that all the tests continue to pass.
+
+# Maintainers
+
+Once all tests are passing, update `lib/savon_fixes/version.rb` to a new version, commit to `master` and the gem will be pushed to rubygems.
