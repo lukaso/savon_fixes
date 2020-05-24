@@ -2,6 +2,8 @@
 
 This gem has been designed to be included if you require some of the open PRs on Savon and cannot upgrade the gem because of them.
 
+![Build](https://github.com/lukaso/savon_fixes/workflows/Build/badge.svg)
+
 # What does it do?
 
 It monkey patches the Savon 2.12.0 version of the gem (will not work with other versions). This should not be a problem as it has been well over two years as of May 2020 since this version was release (17 Jan 2018).
