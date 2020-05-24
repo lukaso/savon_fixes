@@ -2,10 +2,8 @@
 
 # Monkey patch
 class Fixture
-
   class << self
-
-  private
+    private
 
     def read_file(type, fixture)
       path = File.expand_path "spec/fixtures/#{type}/#{fixture}.#{TYPES[type]}", $GEM_DIR
