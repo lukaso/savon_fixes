@@ -20,7 +20,7 @@ gem 'savon_fixes'
 
 Currently there is only one fix incorporated. There are many issues filed against this problem as the stalebot shuts them all down.
 
-- Bugs related to namespacing [#916](https://github.com/savonrb/savon/issues/916), [#899](https://github.com/savonrb/savon/issues/899), [#820](https://github.com/savonrb/savon/issues/820), [#895](https://github.com/savonrb/savon/issues/895) and [#862](https://github.com/savonrb/savon/issues/862) which were all fixed by [#917](https://github.com/savonrb/savon/pull/917)
+- Bugs related to namespacing [#916](https://github.com/savonrb/savon/issues/916), [#899](https://github.com/savonrb/savon/issues/899), [#820](https://github.com/savonrb/savon/issues/820), [#895](https://github.com/savonrb/savon/issues/895), [#862](https://github.com/savonrb/savon/issues/862) and [#830](https://github.com/savonrb/savon/issues/830) which were all fixed by [#917](https://github.com/savonrb/savon/pull/917)
 
 # Contributing
 
