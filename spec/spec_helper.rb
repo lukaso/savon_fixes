@@ -1,4 +1,3 @@
-require 'savon'
 require 'savon_fixes'
 
 $GEM_DIR = Gem::Specification.find_by_name('savon').gem_dir
