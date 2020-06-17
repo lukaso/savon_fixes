@@ -1,3 +1,3 @@
 module SavonFixes
-  VERSION = '0.0.3-rc.1'
+  VERSION = '0.0.3'
 end
