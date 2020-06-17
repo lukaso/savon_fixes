@@ -16,6 +16,19 @@ Add in your `Gemfile`
 gem 'savon_fixes'
 ```
 
+Wherever you require `savon`, add:
+
+```ruby
+require 'savon_fixes'
+```
+
+So that should end up looking like:
+
+```ruby
+require 'savon'
+require 'savon_fixes'
+```
+
 # PRs incorporated and bugs fixed
 
 Currently there is only one fix incorporated. There are many issues filed against this problem as the stalebot shuts them all down.
