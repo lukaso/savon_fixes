@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   # from Savon
   s.add_development_dependency "rack"
-  s.add_development_dependency "puma",  "~> 3.0"
+  s.add_development_dependency "puma",  "~> 6.4"
 
   s.add_development_dependency "rake",  "~> 10.1"
   s.add_development_dependency "rspec", "~> 2.14"
