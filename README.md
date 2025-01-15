@@ -1,5 +1,7 @@
 # Savon_fixes
 
+NOTE: This gem is almost certainly no longer needed as active development has continued on the Savon gem.
+
 This gem has been designed to be included if you require some of the open PRs on Savon and cannot upgrade the gem because of them.
 
 ![Build](https://github.com/lukaso/savon_fixes/workflows/Build/badge.svg)
